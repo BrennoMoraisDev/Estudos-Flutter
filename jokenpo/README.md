@@ -1,6 +1,6 @@
 # jokenpo
 
-jogo pedra, papel e tesoura
+A new Flutter project.
 
 ## Getting Started
 
